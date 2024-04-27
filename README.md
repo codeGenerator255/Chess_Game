@@ -19,7 +19,9 @@ A chess game written entirely in C that allows smooth gameplay between two playe
   BP for Pawn, BR for Rook, BK for Knight, BB for Bishop, BQ for Queen, B* for King
 
 # How to Run
-* Run the file in terminal after compilation.
+* Open all the files in a common folder.
+* Compile the code using : gcc -o chessGame chess.c
+* Run the code using: ./chessGame.exe
 * Enter the name of player1 and player2.
 * Then enter the choice (W/B), W for white and B for black.
 * Press any key two times, then game will be started.
